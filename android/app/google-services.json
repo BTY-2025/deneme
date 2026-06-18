@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771371669283",
+    "project_id": "pdfology-2b874",
+    "storage_bucket": "pdfology-2b874.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771371669283:android:e6d760ce4d4a8c1dd61e96",
+        "android_client_info": {
+          "package_name": "com.pdfaireader.pdfaireader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC33iRNM5NpRLXgQyuPIMMMZm81zHehjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
